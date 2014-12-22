@@ -16,7 +16,7 @@ int main ()
 {
   int  pressure;
   ifstream  data;
-  data.open("pressure.d1");
+  data.open("pressure.d1.txt");
                                           
  while (pressure < 100)
  {
